@@ -511,4 +511,4 @@ TRANSFORMER:          Vs/Vp = Ns/Np           (voltage ratio)
 
 ---
 
-*End of Chapter 7 notes. Upload the next chapter's PDF and I'll prepare a separate, matching notes file for it.*
+
